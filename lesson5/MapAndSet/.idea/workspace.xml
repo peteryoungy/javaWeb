@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e1625f6-4ab0-40f4-8365-3416ca23a323" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../2020/python_src/spe3-extract/.idea/spe3-extract.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2020/python_src/spe4-database_in_py/week5-virualizaiton/.idea/week5-virualizaiton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2020/python_src/spe5-capstone/gmane/.idea/gmane.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2020/python_src/spe5-capstone/week2-pagerank/asmt/.idea/wk_asmt_pagerank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2020/python_src/spe5-capstone/week2-pagerank/asmt2/.idea/wk2_asmt2_pagerank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2020/python_src/spe5-capstone/week2-pagerank/pagerank/.idea/pagerank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2020/python_src/算法练习/.idea/算法练习.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Asemester1/COMS4111/W4111_HW0 F21-1/.idea/W4111_HW0 F21-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Asemester1/COMS4111/W4111_HW0 F21-1/W4111_HW0 F21/HW0 Test/.idea/HW0 Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Asemester1/COMS4111/W4111_HW0 F21-1/__MACOSX/W4111_HW0 F21/HW0 Test/.idea/._HW0 Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Asemester1/COMS4111/W4111_HW1 F21-2/W4111_HW1 F21/.idea/4111_S2021_hw1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Asemester1/COMS4111/W4111_HW1 F21-2/W4111_HW1 F21/4111_s21_hw1_programming_CSVDataTable/.idea/4111_s21_hw1_programming_CSVDataTable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Asemester1/COMS4111/W4111_HW1 F21-2/W4111_HW1 F21/copies/4111_s21_hw1_programming_CSVDataTable/.idea/4111_s21_hw1_programming_CSVDataTable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Asemester1/COMS4111/W4111_HW1 F21-2/__MACOSX/W4111_HW1 F21/.idea/._4111_S2021_hw1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Asemester1/COMS4111/W4111_HW2_Programming/W4111_HW2_Programming/.idea/HW3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Asemester1/COMS4111/W4111_HW2_Programming/__MACOSX/W4111_HW2_Programming/.idea/._HW3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Asemester1/CSEE4119/prog_hw1/.idea/prog_hw1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/important1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../javasrc/.idea/javasrc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../javasrc/BoundedQueueByArray/BoundedQueueByArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../javasrc/Heap/Heap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../javasrc/LinkedListHelper/.idea/LinkedListHelper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../javasrc/QueueByLinkedList/QueueByLinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../javasrc/QueueByStack/QueueByStack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../javasrc/RainbowSort/RainbowSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../javasrc/SortByTwoStacks/SortByTwoStacks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../javasrc/StackByLinkedList/StackByLinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../javasrc/TraverseTree/TraverseTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../javasrc/Tree/Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../javasrc/addTwoNumbers/addTwoNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../javasrc/addTwoNumbers/out/production/addTwoNumbers/addTwoNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../javasrc/mergeSort/mergeSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../javasrc/reOrderLinkedList/reOrderLinkedList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson3/review/src/main/java/com/udacity/jwdnd/c1/review/Controller/ChatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson3/review/src/main/java/com/udacity/jwdnd/c1/review/Controller/ChatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson3/review/src/main/java/com/udacity/jwdnd/c1/review/Model/ChatForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson3/review/src/main/java/com/udacity/jwdnd/c1/review/Model/ChatForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson3/review/src/main/java/com/udacity/jwdnd/c1/review/Model/ChatMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson3/review/src/main/java/com/udacity/jwdnd/c1/review/Model/ChatMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson3/review/src/main/java/com/udacity/jwdnd/c1/review/Service/MessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson3/review/src/main/java/com/udacity/jwdnd/c1/review/Service/MessageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson3/review/src/main/resources/templates/chat.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson3/review/src/main/resources/templates/chat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/String.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/out/production/String/AdjcentChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/AdjcentChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javasrc/Heap/src/SameDigitNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../javasrc/Heap/src/SameDigitNumber.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="20KlHVPNfZXzSuZm8DrP0hY8X0M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../javasrc/MapAndSet" />
+  </component>
+  <component name="RunManager" selected="Application.Coordinate">
+    <configuration name="Coordinate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coordinate" />
+      <module name="MapAndSet" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyHashMap" />
+      <module name="MapAndSet" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="MapAndSet" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Coordinate" />
+        <item itemvalue="Application.MyHashMap" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e1625f6-4ab0-40f4-8365-3416ca23a323" name="Changes" comment="" />
+      <created>1635801075682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635801075682</updated>
+      <workItem from="1635801076946" duration="13639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
