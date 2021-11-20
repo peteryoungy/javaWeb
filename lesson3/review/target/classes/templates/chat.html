@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Chat</title>
+<!--    att: 别忘记改标题-->
+</head>
+<body>
+
+<form th:action="@{/chat}" action="#" method="post" th:object="${newMessage}">
+<!--    att: 怎么知道user身份呢？-->
+<!--    <label for="username">Username:</label>-->
+<!--    <input th:field="*{username}" id="username" type="text">-->
+    <label for="messageText">Message Text:</label>
+    <input th:field="*{messageText}" id="messageText" type="text">
+    <label for="messageType">Message Type: </label>
+    <select th:field="*{messageType}" id="messageType">
+        <option th:value="Say" selected>Say</option>
+        <option th:value="Shout">Shout</option>
+        <option th:value="Whisper">Whisper</option>
+    </select>
+    <input type="submit">
+</form>
+
+<div th:each="chatMessage:${chatMessages}">
+    <span th:text="${chatMessage.username}"> </span>
+    <span th:text="${chatMessage.messageText}"></span>
+</div>
+
+</body>
+</html>
